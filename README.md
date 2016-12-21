@@ -30,3 +30,5 @@ Now you are set, you are in the guest machine's shell.
 
 FYI, the localhost of guest machine is set to 3000 which will connect to port 3000
 on the host.
+
+The detailed installation can be [found here](https://docs.google.com/document/d/1i9qSRsOHjTf9wi0SYvU7OCCEGqvl_fMExP5gjkFAphc).
